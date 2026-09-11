@@ -13,3 +13,6 @@ dist/
 
 # Regole personali (vengono rigenerate in automatico al primo avvio)
 json/regole.json
+
+# Preferenze locali (es. tema chiaro/scuro) salvate al primo avvio
+json/settings.json
