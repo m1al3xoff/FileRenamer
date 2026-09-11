@@ -1,0 +1,15 @@
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Artefatti di build PyInstaller
+build/
+dist/
+*.spec
+
+# Eseguibili compilati (vengono pubblicati come Release, non nel repo)
+*.exe
+
+# Regole personali (vengono rigenerate in automatico al primo avvio)
+json/regole.json
